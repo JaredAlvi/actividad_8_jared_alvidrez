@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "actividad_8",
+    "slug": "actividad_8",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "actividad_8"
+}
